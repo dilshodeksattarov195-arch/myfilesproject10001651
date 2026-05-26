@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercync",
+        "uuid": 15331186,
+        "checksum": "krl2s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
